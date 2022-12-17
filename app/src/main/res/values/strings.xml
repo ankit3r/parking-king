@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Parking</string>
+    <string name="verified_and_go">Verified and go</string>
+    <string name="entry_time">Entry time</string>
+    <string name="out">Out time</string>
+    <string name="parking_fee_par_hours">parking fee par Hours</string>
+    <string name="total_parking_fee">Total parking fee</string>
+</resources>

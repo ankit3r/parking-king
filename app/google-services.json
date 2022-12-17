@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711192736933",
+    "project_id": "my-parking-86234",
+    "storage_bucket": "my-parking-86234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711192736933:android:3883017ef521fef711c94c",
+        "android_client_info": {
+          "package_name": "com.gyanhub.myparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711192736933-e442v54ptbhbs528eb9bodu9oedjs8ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZtP2DVNJZXPiWI6Ix1BgG4LD2kKhDvHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711192736933-e442v54ptbhbs528eb9bodu9oedjs8ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
