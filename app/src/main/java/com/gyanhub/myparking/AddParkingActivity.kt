@@ -24,6 +24,7 @@ class AddParkingActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityAddParkingBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
         title = "Add Parking"
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 

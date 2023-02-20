@@ -140,7 +140,7 @@ class VerifiedActivity : AppCompatActivity() {
     private fun sendOtp(list: List<ParkingEntity>, position: Int) {
 
         val massage =
-            "Conform your vehicles No : ${list[position].CarNo} and share OTP Only with me." +
+            "Conform your vehicles No : ${list[position].CarNo} ,Total parking Amount: $totalFee and share OTP Only with me." +
                     "OTP is $random1"
 
 
